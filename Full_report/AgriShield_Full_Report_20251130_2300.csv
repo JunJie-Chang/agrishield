@@ -1,0 +1,97 @@
+Crop,Asset,Best_Correlation,Timing,Sync_Corr,Lag_1W_Corr,Lag_1M_Corr
+茭白筍,USD/TWD,-0.6316,Leading (1 Month),0.0856,-0.1362,-0.6316
+茭白筍,Agri-Business ETF,0.6251,Leading (1 Month),0.0797,0.2927,0.6251
+茭白筍,Gas (Fertilizer),-0.5383,Leading (1 Week),-0.5105,-0.5383,-0.4361
+茭白筍,Commodity Index,0.4504,Leading (1 Month),-0.0784,0.0548,0.4504
+茭白筍,Consumer Staples,0.3973,Leading (1 Month),0.2012,0.3152,0.3973
+茭白筍,Gold,-0.2396,Synchronized,-0.2396,-0.0973,0.2376
+茭白筍,Oil (Cost),0.2339,Synchronized,0.2339,0.1291,0.045
+茭白筍,Taiwan Weighted,0.2295,Leading (1 Week),0.2053,0.2295,0.1316
+甘藍(高麗菜),USD/TWD,-0.719,Leading (1 Month),-0.3902,-0.4836,-0.719
+甘藍(高麗菜),Agri-Business ETF,0.6928,Leading (1 Month),0.49,0.5702,0.6928
+甘藍(高麗菜),Gas (Fertilizer),-0.6319,Leading (1 Week),-0.5892,-0.6319,-0.6094
+甘藍(高麗菜),Taiwan Weighted,0.4553,Synchronized,0.4553,0.4325,0.3079
+甘藍(高麗菜),Consumer Staples,0.4117,Leading (1 Month),0.1817,0.2396,0.4117
+甘藍(高麗菜),Gold,0.3881,Leading (1 Month),0.2544,0.3017,0.3881
+甘藍(高麗菜),Oil (Cost),-0.2484,Leading (1 Month),-0.1921,-0.217,-0.2484
+甘藍(高麗菜),Commodity Index,0.2371,Leading (1 Month),0.1099,0.1497,0.2371
+包心白菜,USD/TWD,-0.4794,Leading (1 Month),-0.1699,-0.2238,-0.4794
+包心白菜,Agri-Business ETF,0.4184,Leading (1 Month),0.1707,0.2418,0.4184
+包心白菜,Gold,0.3982,Leading (1 Month),0.1317,0.2152,0.3982
+包心白菜,Taiwan Weighted,0.3138,Leading (1 Week),0.2842,0.3138,0.2955
+包心白菜,Commodity Index,0.3092,Leading (1 Month),-0.0641,0.0392,0.3092
+包心白菜,Oil (Cost),-0.2425,Leading (1 Month),-0.2141,-0.2111,-0.2425
+包心白菜,Gas (Fertilizer),-0.2399,Leading (1 Week),-0.2098,-0.2399,-0.1866
+包心白菜,Consumer Staples,0.1955,Leading (1 Month),0.1085,0.1342,0.1955
+小白菜,USD/TWD,-0.5596,Leading (1 Month),-0.3946,-0.4493,-0.5596
+小白菜,Agri-Business ETF,0.4857,Leading (1 Month),0.3555,0.3857,0.4857
+小白菜,Gas (Fertilizer),-0.3758,Synchronized,-0.3758,-0.3286,-0.1377
+小白菜,Commodity Index,0.3275,Leading (1 Month),0.1025,0.1566,0.3275
+小白菜,Consumer Staples,0.2671,Synchronized,0.2671,0.1836,0.2053
+小白菜,Gold,0.2498,Leading (1 Month),0.2025,0.2388,0.2498
+小白菜,Taiwan Weighted,0.2359,Synchronized,0.2359,0.2022,0.0975
+小白菜,Oil (Cost),-0.1273,Synchronized,-0.1273,-0.1048,-0.0466
+空心菜,Oil (Cost),0.3823,Leading (1 Month),0.3398,0.3308,0.3823
+空心菜,USD/TWD,0.3479,Synchronized,0.3479,0.2711,0.0865
+空心菜,Consumer Staples,-0.3348,Leading (1 Week),-0.2387,-0.3348,-0.3059
+空心菜,Agri-Business ETF,-0.3197,Synchronized,-0.3197,-0.2403,-0.1022
+空心菜,Gold,-0.2791,Synchronized,-0.2791,-0.2307,-0.1918
+空心菜,Taiwan Weighted,0.2565,Leading (1 Month),0.1634,0.206,0.2565
+空心菜,Commodity Index,0.2391,Leading (1 Month),0.1022,0.1434,0.2391
+空心菜,Gas (Fertilizer),0.2157,Leading (1 Month),0.1618,0.1509,0.2157
+蘿蔔,USD/TWD,-0.5661,Leading (1 Month),-0.3348,-0.4133,-0.5661
+蘿蔔,Agri-Business ETF,0.4978,Leading (1 Month),0.4453,0.4861,0.4978
+蘿蔔,Gas (Fertilizer),-0.4531,Leading (1 Week),-0.4327,-0.4531,-0.3951
+蘿蔔,Consumer Staples,0.3813,Leading (1 Month),0.2396,0.3074,0.3813
+蘿蔔,Gold,0.2498,Leading (1 Month),0.1264,0.1488,0.2498
+蘿蔔,Taiwan Weighted,0.2492,Synchronized,0.2492,0.2448,0.1543
+蘿蔔,Commodity Index,0.1659,Leading (1 Month),0.0805,0.0977,0.1659
+蘿蔔,Oil (Cost),-0.1596,Leading (1 Month),-0.1331,-0.1514,-0.1596
+洋蔥,Taiwan Weighted,0.4766,Leading (1 Week),0.4328,0.4766,0.4631
+洋蔥,Consumer Staples,-0.4072,Leading (1 Week),-0.3738,-0.4072,-0.1018
+洋蔥,Gas (Fertilizer),-0.2627,Leading (1 Month),0.1319,0.0492,-0.2627
+洋蔥,Commodity Index,0.2492,Synchronized,0.2492,0.2166,0.0481
+洋蔥,Gold,0.2191,Leading (1 Month),0.0904,0.1128,0.2191
+洋蔥,Agri-Business ETF,0.1838,Leading (1 Month),-0.0241,0.0233,0.1838
+洋蔥,USD/TWD,-0.1709,Leading (1 Month),0.0309,-0.0312,-0.1709
+洋蔥,Oil (Cost),-0.1349,Leading (1 Month),0.0967,0.0612,-0.1349
+馬鈴薯,Taiwan Weighted,0.7308,Leading (1 Month),0.6534,0.7019,0.7308
+馬鈴薯,Consumer Staples,-0.524,Synchronized,-0.524,-0.4154,-0.1266
+馬鈴薯,Gas (Fertilizer),-0.4202,Leading (1 Month),0.1862,0.0496,-0.4202
+馬鈴薯,Gold,0.3699,Leading (1 Month),0.1468,0.218,0.3699
+馬鈴薯,Agri-Business ETF,0.2862,Leading (1 Month),-0.0752,0.02,0.2862
+馬鈴薯,Commodity Index,0.2766,Synchronized,0.2766,0.2427,0.1532
+馬鈴薯,Oil (Cost),-0.2107,Leading (1 Month),0.0645,-0.0308,-0.2107
+馬鈴薯,USD/TWD,-0.2097,Leading (1 Month),0.114,0.0266,-0.2097
+青蔥,Taiwan Weighted,0.6775,Leading (1 Month),0.4309,0.5033,0.6775
+青蔥,Gas (Fertilizer),-0.4762,Leading (1 Month),-0.0902,-0.1859,-0.4762
+青蔥,Agri-Business ETF,0.2944,Leading (1 Month),-0.1659,-0.0797,0.2944
+青蔥,USD/TWD,0.2516,Synchronized,0.2516,0.163,-0.1784
+青蔥,Gold,0.25,Leading (1 Month),-0.0839,-0.0112,0.25
+青蔥,Commodity Index,0.2446,Leading (1 Month),-0.0706,-0.0405,0.2446
+青蔥,Consumer Staples,-0.2126,Synchronized,-0.2126,-0.1818,-0.0755
+青蔥,Oil (Cost),-0.0943,Leading (1 Month),0.0412,-0.0202,-0.0943
+花椰菜,USD/TWD,-0.6356,Leading (1 Month),-0.5065,-0.5474,-0.6356
+花椰菜,Agri-Business ETF,0.5303,Leading (1 Month),0.481,0.4984,0.5303
+花椰菜,Gas (Fertilizer),-0.4725,Synchronized,-0.4725,-0.4383,-0.2476
+花椰菜,Consumer Staples,0.3929,Leading (1 Month),0.3681,0.304,0.3929
+花椰菜,Gold,0.2393,Leading (1 Month),0.1743,0.195,0.2393
+花椰菜,Commodity Index,0.1692,Leading (1 Month),0.0715,0.1368,0.1692
+花椰菜,Oil (Cost),-0.1545,Synchronized,-0.1545,-0.1027,-0.152
+花椰菜,Taiwan Weighted,0.1506,Synchronized,0.1506,0.1043,-0.0077
+玉米筍,Oil (Cost),0.7534,Leading (1 Month),0.593,0.636,0.7534
+玉米筍,USD/TWD,0.6794,Synchronized,0.6794,0.648,0.4424
+玉米筍,Gold,-0.678,Synchronized,-0.678,-0.6655,-0.6568
+玉米筍,Agri-Business ETF,-0.5005,Synchronized,-0.5005,-0.4603,-0.3476
+玉米筍,Consumer Staples,-0.3576,Leading (1 Month),0.0842,0.001,-0.3576
+玉米筍,Gas (Fertilizer),0.2999,Leading (1 Month),-0.0635,-0.0328,0.2999
+玉米筍,Commodity Index,-0.222,Synchronized,-0.222,-0.1012,0.1338
+玉米筍,Taiwan Weighted,-0.1723,Synchronized,-0.1723,-0.1142,0.0936
+番茄,Gas (Fertilizer),-0.5258,Leading (1 Month),-0.1656,-0.249,-0.5258
+番茄,Taiwan Weighted,0.5007,Synchronized,0.5007,0.4938,0.494
+番茄,Consumer Staples,-0.3377,Synchronized,-0.3377,-0.2707,0.0887
+番茄,Agri-Business ETF,0.3369,Leading (1 Month),0.0215,0.0925,0.3369
+番茄,USD/TWD,-0.2981,Leading (1 Month),0.039,-0.0334,-0.2981
+番茄,Gold,0.2096,Leading (1 Month),-0.004,0.0192,0.2096
+番茄,Oil (Cost),-0.1716,Leading (1 Month),0.0936,0.0591,-0.1716
+番茄,Commodity Index,0.086,Synchronized,0.086,0.0827,0.0408
