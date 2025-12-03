@@ -1,0 +1,19 @@
+{
+    "RS": "OK",
+    "Data": [
+        {
+            "TransDate": "113.07.27",
+            "TcType": "N04",
+            "CropCode": "SN9",
+            "CropName": "蓮藕-進口",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 10.0,
+            "Middle_Price": 10.0,
+            "Lower_Price": 10.0,
+            "Avg_Price": 10.0,
+            "Trans_Quantity": 960.0
+        }
+    ],
+    "Next": false
+}

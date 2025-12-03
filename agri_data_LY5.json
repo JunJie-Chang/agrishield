@@ -1,0 +1,19 @@
+{
+    "RS": "OK",
+    "Data": [
+        {
+            "TransDate": "113.06.06",
+            "TcType": "N04",
+            "CropCode": "LY5",
+            "CropName": "珍珠菜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 5.0,
+            "Middle_Price": 5.0,
+            "Lower_Price": 5.0,
+            "Avg_Price": 5.0,
+            "Trans_Quantity": 6.0
+        }
+    ],
+    "Next": false
+}

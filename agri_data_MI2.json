@@ -1,0 +1,71 @@
+{
+    "RS": "OK",
+    "Data": [
+        {
+            "TransDate": "114.06.26",
+            "TcType": "N04",
+            "CropCode": "MI2",
+            "CropName": "秀珍菇-盒裝",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 120.0,
+            "Middle_Price": 120.0,
+            "Lower_Price": 120.0,
+            "Avg_Price": 120.0,
+            "Trans_Quantity": 1.0
+        },
+        {
+            "TransDate": "113.07.16",
+            "TcType": "N04",
+            "CropCode": "MI2",
+            "CropName": "秀珍菇-盒裝",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 100.0,
+            "Middle_Price": 100.0,
+            "Lower_Price": 100.0,
+            "Avg_Price": 100.0,
+            "Trans_Quantity": 8.0
+        },
+        {
+            "TransDate": "113.06.29",
+            "TcType": "N04",
+            "CropCode": "MI2",
+            "CropName": "秀珍菇-盒裝",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 120.0,
+            "Middle_Price": 120.0,
+            "Lower_Price": 120.0,
+            "Avg_Price": 120.0,
+            "Trans_Quantity": 2.0
+        },
+        {
+            "TransDate": "113.05.19",
+            "TcType": "N04",
+            "CropCode": "MI2",
+            "CropName": "秀珍菇-盒裝",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 33.0,
+            "Middle_Price": 33.0,
+            "Lower_Price": 33.0,
+            "Avg_Price": 33.0,
+            "Trans_Quantity": 30.0
+        },
+        {
+            "TransDate": "113.04.03",
+            "TcType": "N04",
+            "CropCode": "MI2",
+            "CropName": "秀珍菇-盒裝",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 130.0,
+            "Middle_Price": 130.0,
+            "Lower_Price": 130.0,
+            "Avg_Price": 130.0,
+            "Trans_Quantity": 8.0
+        }
+    ],
+    "Next": false
+}

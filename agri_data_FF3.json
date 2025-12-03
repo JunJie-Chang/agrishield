@@ -1,0 +1,97 @@
+{
+    "RS": "OK",
+    "Data": [
+        {
+            "TransDate": "114.08.30",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 12.0,
+            "Middle_Price": 12.0,
+            "Lower_Price": 12.0,
+            "Avg_Price": 12.0,
+            "Trans_Quantity": 30.0
+        },
+        {
+            "TransDate": "114.03.12",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 15.0,
+            "Middle_Price": 15.0,
+            "Lower_Price": 15.0,
+            "Avg_Price": 15.0,
+            "Trans_Quantity": 72.0
+        },
+        {
+            "TransDate": "113.12.03",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 90.0,
+            "Middle_Price": 90.0,
+            "Lower_Price": 90.0,
+            "Avg_Price": 90.0,
+            "Trans_Quantity": 90.0
+        },
+        {
+            "TransDate": "113.10.29",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 10.0,
+            "Middle_Price": 10.0,
+            "Lower_Price": 10.0,
+            "Avg_Price": 10.0,
+            "Trans_Quantity": 8.0
+        },
+        {
+            "TransDate": "113.10.20",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 15.0,
+            "Middle_Price": 15.0,
+            "Lower_Price": 15.0,
+            "Avg_Price": 15.0,
+            "Trans_Quantity": 23.0
+        },
+        {
+            "TransDate": "113.09.26",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 16.0,
+            "Middle_Price": 16.0,
+            "Lower_Price": 16.0,
+            "Avg_Price": 16.0,
+            "Trans_Quantity": 19.0
+        },
+        {
+            "TransDate": "113.05.14",
+            "TcType": "N04",
+            "CropCode": "FF3",
+            "CropName": "絲瓜-白瓜",
+            "MarketCode": "109",
+            "MarketName": "台北一",
+            "Upper_Price": 10.0,
+            "Middle_Price": 5.9,
+            "Lower_Price": 5.0,
+            "Avg_Price": 6.6,
+            "Trans_Quantity": 29.0
+        }
+    ],
+    "Next": false
+}
