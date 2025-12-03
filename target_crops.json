@@ -1,15 +1,14 @@
 [
-    { "code": "LA2", "name": "茭白筍" },
-    { "code": "LA1", "name": "甘藍(高麗菜)" },
-    { "code": "LC1", "name": "包心白菜" },
-    { "code": "LD1", "name": "小白菜" },
-    { "code": "LC2", "name": "青江白菜" },
-    { "code": "LF2", "name": "空心菜" },
-    { "code": "SA3", "name": "蘿蔔" },
-    { "code": "SF1", "name": "洋蔥" },
-    { "code": "SD1", "name": "馬鈴薯" },
-    { "code": "SE1", "name": "青蔥" },
-    { "code": "FB1", "name": "花椰菜" },
-    { "code": "FI1", "name": "玉米筍" },
-    { "code": "FJ3", "name": "番茄" }
+    { "code": "LA2", "name": "甘藍-改良種" },
+    { "code": "LA1", "name": "甘藍-初秋" },
+    { "code": "LC1", "name": "包心白-包白" },
+    { "code": "LD1", "name": "青江白菜-小梗" },
+    { "code": "LF2", "name": "蕹菜-小葉" },
+    { "code": "SA3", "name": "蘿蔔-矸仔" },
+    { "code": "SF1", "name": "韭菜-白頭" },
+    { "code": "SD1", "name": "洋蔥-本產" },
+    { "code": "SE1", "name": "青蔥-日蔥" },
+    { "code": "FB1", "name": "花椰菜-青梗" },
+    { "code": "FI1", "name": "茄子-胭脂茄" },
+    { "code": "FJ3", "name": "番茄-牛番茄" }
 ]
