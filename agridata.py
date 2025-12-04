@@ -18,13 +18,15 @@ def get_moa_agri_data(crop_code, crop_name="Unknown", days=365, force_update=Fal
     - force_update: 是否強制刷新 API
     """
     # 1. 自動生成檔名
+    target_dir = "agridata"
     json_filename = f"agri_data_{crop_code}.json"
+    json_file_path = os.path.join(target_dir, json_filename)
 
     # 2. 檢查本地快取
-    if not force_update and os.path.exists(json_filename):
-        print(f"[{crop_name}] 發現本地快取 '{json_filename}'，直接讀取...")
+    if not force_update and os.path.exists(json_file_path):
+        print(f"[{crop_name}] 發現本地快取 '{json_file_path}'，直接讀取...")
         try:
-            with open(json_filename, 'r', encoding='utf-8') as f:
+            with open(json_file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             return process_agri_json(data)
         except Exception as e:
@@ -54,8 +56,8 @@ def get_moa_agri_data(crop_code, crop_name="Unknown", days=365, force_update=Fal
 
         # 4. 存檔
         if "Data" in data and len(data["Data"]) > 0:
-            print(f"[{crop_name}] 下載成功！存檔至 '{json_filename}'")
-            with open(json_filename, 'w', encoding='utf-8') as f:
+            print(f"[{crop_name}] 下載成功！存檔至 '{json_file_path}'")
+            with open(json_file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
             return process_agri_json(data)
         else:
